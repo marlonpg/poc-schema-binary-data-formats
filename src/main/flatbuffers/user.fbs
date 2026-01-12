@@ -1,0 +1,15 @@
+namespace com.example.flatbuffers;
+
+table User {
+  id: int;
+  name: string;
+  email: string;
+  age: int;
+  skills: [string];
+}
+
+table UserList {
+  users: [User];
+}
+
+root_type UserList;
