@@ -1,0 +1,14 @@
+com\example\protobuf\UserProtos$User$1.class
+com\example\ProtobufExample.class
+com\example\flatbuffers\UserList.class
+com\example\protobuf\UserProtos$UserList$Builder.class
+com\example\protobuf\UserProtos$UserList.class
+com\example\flatbuffers\User.class
+com\example\protobuf\UserProtos.class
+com\example\protobuf\UserProtos$User$Builder.class
+com\example\protobuf\UserProtos$User.class
+com\example\FlatBuffersExample.class
+com\example\protobuf\UserProtos$UserOrBuilder.class
+com\example\protobuf\UserProtos$UserList$1.class
+com\example\protobuf\UserProtos$UserListOrBuilder.class
+com\example\PerformanceComparison.class
