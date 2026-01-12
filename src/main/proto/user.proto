@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+package example;
+
+option java_package = "com.example.protobuf";
+option java_outer_classname = "UserProtos";
+
+message User {
+  int32 id = 1;
+  string name = 2;
+  string email = 3;
+  int32 age = 4;
+  repeated string skills = 5;
+}
+
+message UserList {
+  repeated User users = 1;
+}
